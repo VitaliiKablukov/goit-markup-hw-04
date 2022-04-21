@@ -364,6 +364,7 @@ header {
 }
 .first-footer-container {
   display: flex;
+  align-items: baseline;
 }
 .third-footer-container {
   margin-left: 70px;
